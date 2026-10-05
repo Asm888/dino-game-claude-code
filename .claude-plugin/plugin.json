@@ -1,0 +1,9 @@
+{
+  "name": "dino",
+  "version": "1.0.0",
+  "description": "Chrome's offline dinosaur game above the prompt",
+  "author": { "name": "Сергей Алексеев" },
+  "license": "MIT",
+  "keywords": ["game", "dino", "fun"],
+  "types": "./types/index.d.ts"
+}
