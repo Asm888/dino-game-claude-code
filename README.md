@@ -5,7 +5,7 @@ Chrome's offline dinosaur game, right above the prompt in Claude Code. Play whil
 ## Install
 
 ```bash
-claude plugin marketplace add <github-user>/<repo>
+claude plugin marketplace add Asm888/dino-game-claude-code
 claude plugin install dino@dino-marketplace
 ```
 
