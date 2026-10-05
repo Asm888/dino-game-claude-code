@@ -1,15 +1,15 @@
-# 🦖 Dino for Claude Code
+# 🦖 Dino Game for Claude Code
 
-Chrome's offline dinosaur game, right above the prompt in Claude Code. Play while Claude works.
+A pixel dinosaur runner game, right above the prompt in Claude Code. Play while Claude works.
 
 ## Install
 
 ```bash
 claude plugin marketplace add Asm888/dino-game-claude-code
-claude plugin install dino@dino-marketplace
+claude plugin install dino-game@dino-marketplace
 ```
 
-Or open `/plugin` in an interactive `claude` session and pick **dino**.
+Or open `/plugin` in an interactive `claude` session and pick **dino-game**.
 
 Requires Claude Code 2.1.286 or newer (plugin hook modules with `Client` surfaces). Works in the terminal and the desktop app's Code tab.
 

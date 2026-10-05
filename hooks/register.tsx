@@ -1,8 +1,8 @@
 import { atom, read, update } from 'claude-code'
 import type { Register } from 'claude-code'
 
-const isHidden = atom({ plugin: 'dino', key: 'isHidden' } as const, false)
-const best = atom({ plugin: 'dino', key: 'best' } as const, 0)
+const isHidden = atom({ plugin: 'dino-game', key: 'isHidden' } as const, false)
+const best = atom({ plugin: 'dino-game', key: 'best' } as const, 0)
 
 export const register: Register = on => {
   on('session.start', async ($, e, next) => {

@@ -1,15 +1,15 @@
 {
   "name": "dino-marketplace",
-  "description": "Chrome's offline dinosaur game for Claude Code",
+  "description": "A pixel dinosaur runner game for Claude Code",
   "owner": {
     "name": "Sergey Alekseev",
     "url": "https://t.me/alekseev_ai_products"
   },
   "plugins": [
     {
-      "name": "dino",
+      "name": "dino-game",
       "source": "./",
-      "description": "Chrome's offline dinosaur game above the prompt"
+      "description": "A pixel dinosaur runner game above the prompt"
     }
   ]
 }

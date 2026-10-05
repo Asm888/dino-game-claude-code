@@ -1,7 +1,7 @@
 {
-  "name": "dino",
+  "name": "dino-game",
   "version": "1.0.0",
-  "description": "Chrome's offline dinosaur game above the prompt",
+  "description": "A pixel dinosaur runner game above the prompt",
   "author": {
     "name": "Sergey Alekseev",
     "url": "https://t.me/alekseev_ai_products"
