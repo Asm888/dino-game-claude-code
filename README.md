@@ -31,6 +31,6 @@ Requires Claude Code 2.1.286 or newer (plugin hook modules with `Client` surface
 - `hooks/game.tsx`: the game itself: physics, obstacles, pixel rendering.
 - `types/index.d.ts`: types for the plugin's session state.
 
-## License
+## Author
 
-MIT
+Developed by **Sergey Alekseev** · [Telegram channel](https://t.me/alekseev_ai_products)

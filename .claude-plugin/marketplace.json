@@ -2,7 +2,8 @@
   "name": "dino-marketplace",
   "description": "Chrome's offline dinosaur game for Claude Code",
   "owner": {
-    "name": "Сергей Алексеев"
+    "name": "Sergey Alekseev",
+    "url": "https://t.me/alekseev_ai_products"
   },
   "plugins": [
     {
